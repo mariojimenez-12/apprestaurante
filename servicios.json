@@ -1,0 +1,54 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "nombre": "Pizza Hawaiana",
+            "precio": 80
+        },
+        {
+            "id": 2,
+            "nombre": "Pizza Con Peperoni",
+            "precio": 60
+        },
+        {
+            "id": 3,
+            "nombre": "Sandwich",
+            "precio": 100
+        },
+        {
+            "id": 4,
+            "nombre": "Pasta Alfredo",
+            "precio": 100
+        },
+        {
+            "id": 5,
+            "nombre": "Chilaquiles",
+            "precio": 60
+        },
+        {
+            "id": 6,
+            "nombre": "Chilaquiles Divorciados",
+            "precio": 100
+        },
+        {
+            "id": 7,
+            "nombre": "Papa al Horno",
+            "precio": 300
+        },
+        {
+            "id": 8,
+            "nombre": "Chiken Bake",
+            "precio": 400
+        },
+        {
+            "id": 9,
+            "nombre": "Hot-Dog",
+            "precio": 50
+        },
+        {
+            "id": 10,
+            "nombre" : "Papas Fritas",
+            "precio": 150
+        }
+    ]
+}
